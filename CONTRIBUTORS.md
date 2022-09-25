@@ -1,3 +1,8 @@
+#### Name: Sanya Verma
+ - Place: Patna India
+ - Bio: Computer Science Undergraduate
+ - GitHub: [Sanya Verma](https://github.com/sanyaverma2001)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
